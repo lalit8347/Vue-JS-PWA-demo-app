@@ -1,0 +1,22 @@
+{
+  "name": "vuejs-pwa-app",
+  "short_name": "VSPWA",
+  "icons": [
+    {
+      "src": "/img/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "description": "sdsdff s  f",
+  "background_color": "#f9f9f9",
+  "theme_color": "#3d5165",
+  "display": "standalone",
+  "orientation": "portrait"
+}
